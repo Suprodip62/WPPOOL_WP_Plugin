@@ -1,0 +1,33 @@
+step 1: Download & install xampp --> 8.2.4(in my case)
+step 2: Open xampp, activate apache & mysql in xampp
+step 3: Download & extract wordpress from wordpress.org --> wordpress 6.2.2(in my case)
+step 4: move wordpress folder to c/xampp/htdocs
+step 5: go to localhost/phpmyadmin and create a new database named wordpress
+step 6: got to localhost/wordpress & select English language
+step 7: Database Name: wordpress
+        Username: root
+        password: 
+        Database Host: localhost
+        Table Prefix: wp_
+step 8: Run the installation
+
+
+
+create folder: wp-content/plugins/project_plugin
+create file: index.php
+table creator function er vitore table create korte hobe. tbale_name=prefix.projects
+wp dashboard e plugin activate korle localhost/phpmyadmin e gele wordpress db er vitore projects name er table create hobe.
+
+
+index.php te zip file er index.php er code copy korte hobe.
+ei code run kore or sql file phpmyadmin e import kore database banate hobe.
+code save kore wordpress er dashboard e gelei project name er menu paoya jabe.
+ekhane project list e giye all project view kora jabe.
+project er view e ckick korle details view paoya jabe.
+external link e click korle external link e niye jabe.
+
+add project submenu te ckick korle project upload korar form ashbe.
+image er jaygay direct upload na kore 
+https://www.nopio.com/wp-content/uploads/2016/05/web-development.jpg
+evabe text field hisebe dite hobe.
+
